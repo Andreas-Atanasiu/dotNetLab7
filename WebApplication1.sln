@@ -5,7 +5,12 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab2", "WebApplication1\Lab2.csproj", "{C6D0ADD0-8C04-4402-9CD7-0641B894B1AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiTest", "WebApiTest\WebApiTest.csproj", "{40516B93-D55A-4624-A180-3702AB17AA8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiTest", "WebApiTest\WebApiTest.csproj", "{40516B93-D55A-4624-A180-3702AB17AA8B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8E1F6393-6A71-4383-8D25-F8B4F4EBE1D9}"
+	ProjectSection(SolutionItems) = preProject
+		.filenesting.json = .filenesting.json
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
