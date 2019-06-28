@@ -6,5 +6,10 @@ export class Expense {
     currency: string;
     type: string;
     numberOfComments: number;
-
 }
+    
+export class PaginatedFlowers {
+        currentPage: number;
+        numberOfPages: number;
+        entries: Expense[];
+    }
